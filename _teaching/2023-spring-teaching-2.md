@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Database Systems (Spring 2023)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-Spring-teaching-1
