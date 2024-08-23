@@ -19,6 +19,7 @@ Work experience
 ======
 * Research Associate, Indian Statistical Institute, 2018 - 2019
 * Associate (Model Risk Management), Deloitte USI, 2017 - 2018      
+
 Skills
 ======
 * Python
@@ -27,12 +28,6 @@ Skills
   * SQL
   * MongoDB
 * R Programming Language
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
