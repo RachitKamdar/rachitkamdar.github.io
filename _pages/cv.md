@@ -11,35 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Information Systems, University of Maryland - College Park, 2020 - Present
+* M.S. in Quantitative Economics, Indian Statistical Institute, Kolkata, 2015 - 2017
+* B.S. in Economics, St. Xavier's College Kolkata, 2012 - 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Research Associate, Indian Statistical Institute, 2018 - 2019
+* Associate (Model Risk Management), Deloitte USI, 2017 - 2018      
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * Pytorch
+* Databases
+  * SQL
+  * MongoDB
+* R Programming Language
 
 Publications
 ======
@@ -61,4 +48,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for Management Science (2022 - Present)
+* Reviewer for International Conference on Information Systems (2022 - Present)
+* Reviewer for Workshop on Information Technologies & Systems (2022 - Present)
+* Reviewer for Pacific Asia Conference on Information Systems (2022 - Present)
+* Organizer for a Virtual Doctoral Student Seminar (Information Systems Students Presentation over Cloud 2022 & 2023)
