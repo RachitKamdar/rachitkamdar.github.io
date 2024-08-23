@@ -8,4 +8,4 @@ date: 2023-10-17
 location: "Phoenix AZ, USA"
 ---
 
-[More information here](http://exampleurl.com)
+[More information](https://meetings.informs.org/wordpress/phoenix2023/agenda/)
