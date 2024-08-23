@@ -22,5 +22,5 @@ location: "College Park, United States"
 - Demonstrate the ability to use the data definition and data manipulation language (i.e SQL)
 - Familiarity with SQL Server
 - Ability to formulate complex SQL queries
-- Convert Er schema to relational tables
+- Convert ER schema to relational tables
 - Apply normalization techniques
