@@ -1,7 +1,7 @@
 ---
 title: "Impact of AI on Reviews and Outcomes"
 collection: talks
-type: "Talk"
+type: "Presentation"
 permalink: /talks/2023-10-17-talk
 venue: "INFORMS"
 date: 2023-10-17
