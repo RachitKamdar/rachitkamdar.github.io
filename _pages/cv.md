@@ -34,11 +34,8 @@ Teaching
 
 Skills
 ======
-* Python
-  * Pytorch
-* Databases
-  * SQL
-  * MongoDB
+* Python - Pytorch
+* Databases - SQL, MongoDB
 * R Programming Language
 
 Service and leadership
