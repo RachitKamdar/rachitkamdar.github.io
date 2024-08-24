@@ -8,7 +8,6 @@ date: 2023-01-02
 location: "College Park, United States"
 ---
 
-
 ## BMGT 402: Database Systems
 
 **Instructor:** Rachit Kamdar
