@@ -11,7 +11,7 @@ location: "College Park, United States"
 
 ## BMGT 402: Database Systems
 
-**Instructor:** Prof. Rachit Kamdar
+**Instructor:** Rachit Kamdar
 
 **Time:** MW 9:30-10:45am
 
